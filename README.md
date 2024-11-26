@@ -1,2 +1,2 @@
 # leetcode
-solving leetcode problems
+solving leetcode problems in go language
